@@ -1,0 +1,16 @@
+colorlog
+decord
+diffusers
+einops
+ftfy
+gdown
+numpy
+opencv_python
+Pillow
+pytorchvideo
+safetensors
+torch
+torchvision
+tqdm
+transformers
+lpips
